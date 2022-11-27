@@ -22,7 +22,7 @@ import org.w3c.dom.Text;
 
 public class RateDialog extends Dialog {
 
-    private float userRate = 0;
+    private float userRate = 4;
     private String movieName = "";
 
     private Dialog resultDialog = null;
