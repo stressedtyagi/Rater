@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rater</string>
+    <string-array name="movies">
+        <item>Select Item</item>
+        <item>Top Gun</item>
+        <item>Lone Survivor</item>
+        <item>Black Adam</item>
+        <item>Zero Dark Thirty</item>
+        <item>Black Panther</item>
+        <item>Drishyam 2</item>
+    </string-array>
+</resources>
